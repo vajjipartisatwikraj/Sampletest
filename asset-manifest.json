@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sampletest/static/css/main.cd63c673.css",
+    "main.js": "/Sampletest/static/js/main.bc8e4792.js",
+    "static/js/787.8212f943.chunk.js": "/Sampletest/static/js/787.8212f943.chunk.js",
+    "static/media/logo.png": "/Sampletest/static/media/logo.a161ad780fe7ea5b325f.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Sampletest/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Sampletest/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Sampletest/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/expressjs.png": "/Sampletest/static/media/expressjs.915b89629a5fefdb6ca0.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Sampletest/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/aboutus.jpg": "/Sampletest/static/media/aboutus.53d44cdede36a8d440d6.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Sampletest/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/springjava.png": "/Sampletest/static/media/springjava.1493cea40dd5502e5ac7.png",
+    "static/media/vuejs.png": "/Sampletest/static/media/vuejs.4626039760cedf966189.png",
+    "static/media/java.png": "/Sampletest/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/csharp.png": "/Sampletest/static/media/csharp.4a32f53d425c7ad4cb05.png",
+    "static/media/django.png": "/Sampletest/static/media/django.4c399895f677cd3bfbc8.png",
+    "static/media/cplusplus.png": "/Sampletest/static/media/cplusplus.24a8f93854ab092f17a7.png",
+    "index.html": "/Sampletest/index.html",
+    "main.cd63c673.css.map": "/Sampletest/static/css/main.cd63c673.css.map",
+    "main.bc8e4792.js.map": "/Sampletest/static/js/main.bc8e4792.js.map",
+    "787.8212f943.chunk.js.map": "/Sampletest/static/js/787.8212f943.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd63c673.css",
+    "static/js/main.bc8e4792.js"
+  ]
+}
