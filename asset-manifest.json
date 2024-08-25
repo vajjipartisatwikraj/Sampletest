@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sampletest/static/css/main.338828cb.css",
-    "main.js": "/Sampletest/static/js/main.2a33f0da.js",
+    "main.css": "/Sampletest/static/css/main.cf103ac0.css",
+    "main.js": "/Sampletest/static/js/main.c059b6e6.js",
     "static/js/787.8212f943.chunk.js": "/Sampletest/static/js/787.8212f943.chunk.js",
     "static/media/kotlin.png": "/Sampletest/static/media/kotlin.ea1f30beabffbf71d58c.png",
     "static/media/logo.png": "/Sampletest/static/media/logo.a161ad780fe7ea5b325f.png",
@@ -12,11 +12,14 @@
     "static/media/firebase.png": "/Sampletest/static/media/firebase.5aa7cf22cd45ec6bbec2.png",
     "static/media/fontawesome-webfont.eot": "/Sampletest/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Sampletest/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Projects.svg": "/Sampletest/static/media/Projects.3d7e8403e82991592122401cd907c8df.svg",
     "static/media/aws.png": "/Sampletest/static/media/aws.e901bc3397ff5cdfd815.png",
+    "static/media/Hackathon.svg": "/Sampletest/static/media/Hackathon.2bc7be3499fbec8f3cee465f8dc5709a.svg",
     "static/media/expressjs.png": "/Sampletest/static/media/expressjs.915b89629a5fefdb6ca0.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Sampletest/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/aboutus.jpg": "/Sampletest/static/media/aboutus.53d44cdede36a8d440d6.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Sampletest/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Contest.svg": "/Sampletest/static/media/Contest.80a3ffd437970f2ac513be849cafb430.svg",
     "static/media/springjava.png": "/Sampletest/static/media/springjava.1493cea40dd5502e5ac7.png",
     "static/media/html.png": "/Sampletest/static/media/html.1d7b133e22ffe4829da6.png",
     "static/media/css.png": "/Sampletest/static/media/css.9f33c557b92e4e2e1cc8.png",
@@ -35,12 +38,12 @@
     "static/media/azure.png": "/Sampletest/static/media/azure.26efc307ff575e223899.png",
     "static/media/retro_computer_personal_use.ttf": "/Sampletest/static/media/retro_computer_personal_use.d3aa5fc07030eb5f05a3.ttf",
     "index.html": "/Sampletest/index.html",
-    "main.338828cb.css.map": "/Sampletest/static/css/main.338828cb.css.map",
-    "main.2a33f0da.js.map": "/Sampletest/static/js/main.2a33f0da.js.map",
+    "main.cf103ac0.css.map": "/Sampletest/static/css/main.cf103ac0.css.map",
+    "main.c059b6e6.js.map": "/Sampletest/static/js/main.c059b6e6.js.map",
     "787.8212f943.chunk.js.map": "/Sampletest/static/js/787.8212f943.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.338828cb.css",
-    "static/js/main.2a33f0da.js"
+    "static/css/main.cf103ac0.css",
+    "static/js/main.c059b6e6.js"
   ]
 }
